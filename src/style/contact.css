@@ -1,0 +1,53 @@
+.mai{
+  background: #282424;
+  justify-content: center;
+  padding: 30px;
+}
+.contact .div{
+    padding: 50px 30px;
+    background-color: #f3ecec;
+    width: 40%;
+    text-align: center;
+    margin-left:250px ;
+    border-radius: 10px;
+    box-shadow: 3px 4px 8px rgba(119, 27, 111);
+
+  }
+  
+  .contact h2 {
+    font-size: 2.5rem;
+    color: white;
+    margin-bottom: 30px;
+    margin-right: 120px;
+  }
+  
+  .contact form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .contact input,
+  .contact textarea {
+    width: 300px;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    font-size: 1rem;
+  }
+  
+  .contact button {
+    padding: 10px 20px;
+    background-color: #a92f8d;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .contact button:hover {
+    background-color: #891982;
+  }
+  
