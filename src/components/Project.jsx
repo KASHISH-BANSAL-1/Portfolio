@@ -23,13 +23,13 @@ function Project() {
 
         <div className="project-item">
           <img src={movie} alt="MovieSphere-Frontend" className="project-img"/>
-          <h3><a href="https://github.com/KASHISH-BANSAL-1/MovieSphere-Frontend" target="_blank" rel="noopener noreferrer">MovieSphere-Frontend</a></h3>
+          <h3><a href="https://github.com/KASHISH-BANSAL-1/MovieSphere-Frontend" target="_blank" rel="noopener noreferrer">MovieSphere</a></h3>
           <p>The frontend of a movie recommendation platform, allowing users to search and explore movies.</p>
         </div>
 
         <div className="project-item">
           <img src={sleek} alt="SleekInn-Front" className="project-img"/>
-          <h3><a href="https://github.com/KASHISH-BANSAL-1/SleekInn-front" target="_blank" rel="noopener noreferrer">SleekInn-Front</a></h3>
+          <h3><a href="https://github.com/KASHISH-BANSAL-1/SleekInn-front" target="_blank" rel="noopener noreferrer">SleekInn</a></h3>
           <p>The frontend of a tour booking website built using the MERN stack, featuring secure payment options.</p>
         </div>
 
